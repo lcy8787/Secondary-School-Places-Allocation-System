@@ -67,7 +67,7 @@
 本項目是高中課業作品。代碼中可能存在未完善之處，不建議用於真實的升中派位行政工作中。開發者對使用本軟件導致的任何數據損失不負責任。 ;
 
 ---
-
+```
 Copyright © 2025 lcy lo. Licensed under the [Apache License, Version 2.0](LICENSE).
 ```
 
