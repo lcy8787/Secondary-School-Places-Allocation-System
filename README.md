@@ -42,7 +42,7 @@
 
 ### 運行步驟 (How to run)
 1. 確保文件夾內含有 `school.csv` 和 `students.csv` 數據文件。
-2. 雙擊運行 `ict_sba_v1.3.py` 或在終端輸入：
+2. 雙擊運行 `main.py` 或在終端輸入：
    ```bash
    python ict_sba_v1.3.py
    ```
@@ -71,5 +71,4 @@
 Copyright © 2025 lcy lo. Licensed under the [Apache License, Version 2.0](LICENSE).
 ```
 
----
 
