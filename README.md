@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-Apache--2.0-yellow)
 ![DSE ICT](https://img.shields.io/badge/Subject-HKDSE%20ICT%20SBA-orange)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red)
-![Last Commit](https://img.shields.io/github/last-commit/lcy8787/Secondary-School-Places-Allocation-System)
+![Last Commit](https://img.shields.io/github/last-commit/你的用戶名/你的倉庫名)
 
 ## 項目簡介 (Introduction)
 
@@ -13,7 +13,7 @@
 本系統模擬了香港小學升中學的「統一派位」機制。系統會根據學生的呈分試成績進行加權計算、劃分派位組別 (Banding)，並結合隨機編號與志願順序進行公平分配。
 
 **特別聲明：**
-- 項目開發者：**lcy lo**
+- 項目開發者：**盧桌燃 (Lo Cheuk Yin)**
 - 本項目僅供學術交流與研究使用，**無任何實際行政用途**。
 - 所有腳本編寫均符合學術誠信原則。
 
@@ -45,3 +45,41 @@
 2. 雙擊運行 `ict_sba_v1.3.py` 或在終端輸入：
    ```bash
    python ict_sba_v1.3.py
+   ```
+3. 按照介面引導：
+   - 匯入學校資料。
+   - 匯入學生資料。
+   - 按下「開始分配」。
+   - 使用「查詢」功能查看特定學生結果。
+
+---
+
+## 數據結構說明 (Data Structures)
+
+本系統使用了多種數據結構以確保效率：
+- **字典 (Dictionary)**：用於快速查找學生詳細資料。
+- **二維陣列 (2D Array)**：管理學校剩餘配額。
+- **列表 (List) 與 隊列 (Queue)**：處理 Banding 劃分及循環分配邏輯。
+- **選擇排序 (Selection Sort)**：根據總分對學生進行排名。
+
+---
+
+## 參考文件 (Documentation)
+
+詳細的系統設計、流程圖及測試報告請參考：
+- [項目設計報告 (PDF)](./path_to_your_report.pdf)
+- [數據庫格式規範](./docs/data_spec.md)
+
+---
+
+## 免責聲明 (Disclaimer)
+
+本項目是高中課業作品。代碼中可能存在未完善之處，不建議用於真實的升中派位行政工作中。開發者對使用本軟件導致的任何數據損失不負責任。 ;
+
+---
+
+Copyright © 2025 lcy lo. Licensed under the [Apache License, Version 2.0](LICENSE).
+```
+
+---
+
