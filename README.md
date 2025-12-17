@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-Apache--2.0-yellow)
 ![DSE ICT](https://img.shields.io/badge/Subject-HKDSE%20ICT%20SBA-orange)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red)
-![Last Commit](https://img.shields.io/github/last-commit/你的用戶名/你的倉庫名)
+![Last Commit](https://img.shields.io/github/last-commit/lcy8787/Secondary-School-Places-Allocation-System)
 
 ## 項目簡介 (Introduction)
 
