@@ -4,8 +4,7 @@
 ![License](https://img.shields.io/badge/License-Apache--2.0-yellow)
 ![DSE ICT](https://img.shields.io/badge/Subject-HKDSE%20ICT%20SBA-orange)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red)
-![repo_size](https://img.shields.io/github/repo-size/Joeccp/SBA)
-![code_size](https://img.shields.io/github/languages/code-size/Joeccp/SBA)
+
 
 ## 項目簡介 (Introduction)
 
