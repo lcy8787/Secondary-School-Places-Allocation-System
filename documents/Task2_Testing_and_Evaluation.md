@@ -1,3 +1,10 @@
+---
+**警告 WARNING**: 此為學生課業作品，僅供參考。請勿抄襲或提交作為個人作業，否則可能被視為學術不端行為。
+**WARNING**: This is student coursework provided for REFERENCE ONLY. Do not copy or submit as your own work.
+
+[English](../../README.md) | [繁體中文](../../README.zh-Hant.md)
+---
+
 # 香港中學文憑試 資訊及科技通訊科 校本評核 (課業二)
 # 升中排位系統 - 測試與評估報告
 

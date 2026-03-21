@@ -1,3 +1,15 @@
+"""
+Secondary School Places Allocation System
+==========================================
+Coursework for HKDSE ICT SBA
+
+WARNING: This is student coursework provided for REFERENCE ONLY.
+Do not copy or submit as your own work. Plagiarism may result in academic penalties.
+All code was written by the student to demonstrate learning outcomes.
+
+Documentation: [English](../README.md) | [繁體中文](../README.zh-Hant.md)
+"""
+
 import os
 import random
 import tkinter as tk
