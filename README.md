@@ -5,7 +5,7 @@
 [![DSE ICT](https://img.shields.io/badge/Subject-HKDSE%20ICT%20SBA-orange)](./documents/Task1_Design_Specification.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red)](#)
 
-[English](./README.md) | [繁體中文](./README.zh-Hant.md)
+[English](./README.md) | [繁體中文](./README_zh-Hant.md)
 
 ---
 
