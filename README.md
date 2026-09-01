@@ -98,5 +98,5 @@ This project is a high school coursework assignment. The code may contain imperf
 ---
 
 ```
-Copyright © 2025 lcy lo. Licensed under the [Apache License, Version 2.0](LICENSE).
+Copyright © 2026 lcy lo. Licensed under the [Apache License, Version 2.0](LICENSE).
 ```
