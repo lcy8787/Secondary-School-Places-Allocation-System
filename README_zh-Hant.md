@@ -98,5 +98,5 @@ Secondary-School-Places-Allocation-System/
 ---
 
 ```
-Copyright © 2025 lcy lo. Licensed under the [Apache License, Version 2.0](LICENSE).
+Copyright © 2026 lcy lo. Licensed under the [Apache License, Version 2.0](LICENSE).
 ```
